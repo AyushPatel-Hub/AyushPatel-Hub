@@ -72,13 +72,49 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="36" height="36"/>
       </p>
     </td>
-   <td width="50%" valign="top">
-  <h3 align="center">🏆 LeetCode Achievements</h3>
-  <p align="center">
-    <a href="https://leetcode.com/AyushPatel001">
-      <img src="https://leetcode-badge.vercel.app/api/users/AyushPatel001" width="100%" />
-    </a>
-  </p>
-</td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏆 LeetCode Achievements</h3>
+      <p align="center">
+        <a href="https://leetcode.com/AyushPatel001">
+          <img src="https://leetcode-badge.vercel.app/api/users/AyushPatel001" width="100%" />
+        </a>
+      </p>
+      <br>
+      <h3 align="center">🎵 Currently Listening 🎵</h3>
+      <p align="center">
+        <a href="https://spotify-github-profile.kittinan.com/api/view?uid=YOUR_SPOTIFY_USER_ID">
+          <img src="https://spotify-github-profile.kittinan.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=dark" width="100%" />
+        </a>
+      </p>
+    </td>
   </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushPatel-Hub&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushPatel-Hub&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPatel-Hub&theme=tokyo-night" width="100%" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:ayush292004patel@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
