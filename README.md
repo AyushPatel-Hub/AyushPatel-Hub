@@ -75,11 +75,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="36" height="36"/>
       </p>
     </td>
-   <td width="50%" valign="top">
+  <td width="50%" valign="top">
   <h3 align="center">🏆 LeetCode Achievements</h3>
   <p align="center">
     <a href="https://leetcode.com/AyushPatel001" target="_blank">
-      <img src="https://leetcode-stats-card.vercel.app/api?username=AyushPatel001&theme=dark" width="100%" alt="LeetCode Stats" />
+      <img src="https://leetcode-stats-card.vercel.app/api?username=AyushPatel001&theme=dark&v=1" width="100%" alt="LeetCode Stats" />
     </a>
   </p>
 </td>
