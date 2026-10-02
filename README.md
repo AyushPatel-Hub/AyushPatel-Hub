@@ -1,4 +1,9 @@
-<h1 align="center">I'm Ayush Patel 👨‍💻</h1>
+<!-- Typing Animation Header -->
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vcenter=true&width=600&height=50&lines=Hi+There!+%F0%9F%90%8B;I'm+Ayush+Patel+%F0%9F%93%BB;Full-Stack+Developer+%F0%9F%92%BB;CSE+(AI)+%40+University+Of+Lucknow+'28+%F0%9F%8E%93" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:7c4dff&height=120&section=header" width="100%"/>
@@ -79,13 +84,6 @@
           <img src="https://leetcode-badge.vercel.app/api/users/AyushPatel001" width="100%" />
         </a>
       </p>
-      <br>
-      <h3 align="center">🎵 Currently Listening 🎵</h3>
-      <p align="center">
-        <a href="https://spotify-github-profile.kittinan.com/api/view?uid=YOUR_SPOTIFY_USER_ID">
-          <img src="https://spotify-github-profile.kittinan.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=dark" width="100%" />
-        </a>
-      </p>
     </td>
   </tr>
 </table>
@@ -113,8 +111,5 @@
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
