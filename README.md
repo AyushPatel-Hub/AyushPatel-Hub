@@ -82,6 +82,10 @@
                     <img src="https://leetcard.jacoblin.cool/AyushPatel001?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
                 </a>
             </p>
+            <h2 align="center"> 🎵 Currently Listening 🎵 </h2>
+            <div align="center" valign="bottom">
+                <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="SpotifyCard" width="80%">
+            </div>
         </td>
     </tr>
 </table>
