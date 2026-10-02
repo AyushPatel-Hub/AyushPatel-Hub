@@ -96,12 +96,6 @@
 | --- |
 
 </div>
-<div align="center">
-
-| [![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=AyushPatel-Hub&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true)](https://github.com/AyushPatel-Hub) |
-| --- |
-
-</div>
 
 ## 🌐 Connect with Me
 
