@@ -1,3 +1,17 @@
+<!-- Typing Animation Header -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Clarity+City&weight=800&size=35&duration=3000&pause=800&width=435&lines=Hi+There%F0%9F%94%A5;I+am+Ayush+Patel%F0%9F%8E%A7;Full+Stack+Developer;MERN+STACK+%7C+DSA%28%28java%29+%7C+RAG;CSE%28AI%29+%40+University+Of+Lucknow-28" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:7c4dff&height=120&section=header" width="100%"/>
+</p>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=AyushPatel-Hub&label=VISITORS&color=007ec6&style=flat-square" alt="Visitors" />
+  <a href="mailto:ayush292004patel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Ayush+Patel+👨‍💻;Full+Stack+Developer+👨‍🎓" />
 </div>
