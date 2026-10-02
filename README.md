@@ -13,15 +13,15 @@
   </a>
 </div>
 
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Ayush+Patel+👨‍💻;Full+Stack+Developer+👨‍🎓" />
-</div>
-
 <!-- <div align="center">
-    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Ayush+Patel+👨‍💻;Full+Stack+Developer+👨‍🎓" />
 </div> -->
 
-<!-- Recent Projects -->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
+</div> 
+
+ <!--Recent Projects--> 
 
 ## 📌 Recent Projects <a rel="noopener" href="mailto:ayush292004patel@gmail.com"><img align="right" src="https://img.shields.io/badge/Contact-Me-2B579A?style=for-the-badge&logo=gmail&logoColor=white" alt="Ayush Patel Contact"></a> <img align="right" src="https://komarev.com/ghpvc/?username=AyushPatel-Hub&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
 
