@@ -92,7 +92,14 @@
 
 <div align="center">
 
-| [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushPatel-Hub&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true)](https://github.com/AyushPatel-Hub) |
+| <img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=AyushPatel-Hub&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" /> | <img align="center" alt="GitHub Streak" src="https://nirzak-streak-stats.koyeb.app?user=AyushPatel-Hub&theme=vision-friendly-dark&hide_border=true&border_radius=15.2&mode=weekly&card_width=500" /> |
+| --- | --- |
+
+</div>
+
+<div align="center">
+
+| [![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=AyushPatel-Hub&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true)](https://github.com/AyushPatel-Hub) |
 | --- |
 
 </div>
