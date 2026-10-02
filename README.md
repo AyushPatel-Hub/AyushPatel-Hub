@@ -1,8 +1,6 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vcenter=true&width=600&height=50&lines=Hi+There!+%F0%9F%90%8B;I'm+Ayush+Patel+%F0%9F%93%BB;Full-Stack+Developer+%F0%9F%92%BB; CSE+(AI)+%40+University+Of+Lucknow+'28+%F0%9F%8E%93" alt="Typing SVG" />
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There%F0%9F%94%A5;I+am+Ayush+Patel%F0%9F%8E%A7;Full+Stack+Developer;MERN+STACK+%7C+DSA%28%28java%29+%7C+RAG;CSE%28AI%29+%40+University+Of+Lucknow-28" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
