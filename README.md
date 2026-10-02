@@ -17,9 +17,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Ayush+Patel+👨‍💻;Full+Stack+Developer+👨‍🎓" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
-</div>
+</div> -->
 
 <!-- Recent Projects -->
 
@@ -108,7 +108,7 @@
 
 <div>
 <a href="mailto:ayush292004patel@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin-white&logoColor=d5d5d5" /></a> <img width="15" />
+<a href="https://www.linkedin.com/in/ayushpatelcse/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin-white&logoColor=d5d5d5" /></a> <img width="15" />
 </div>
 
 <div align="center">
