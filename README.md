@@ -79,7 +79,7 @@
   <h3 align="center">🏆 LeetCode Achievements</h3>
   <p align="center">
     <a href="https://leetcode.com/AyushPatel001" target="_blank">
-      <img src="https://leetcode-stats-card.vercel.app/api?username=AyushPatel001&theme=dark&cacheBust=20261002" width="100%" alt="LeetCode Stats" />
+      <img src="https://leetcode-stats-card.vercel.app/api?username=AyushPatel001&theme=dark&cacheBust=20261002?cacheBust=20261002" width="100%" alt="LeetCode Stats" />
     </a>
   </p>
 </td>
