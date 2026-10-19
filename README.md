@@ -1,4 +1,4 @@
-<!-- Typing Animation Header -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:7c4dff&height=120&section=header" width="100%"/>
